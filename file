@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   
+    <div class="box3">
+        <div class="box4"></div>
+        <div class="box2">
+           
+            <h1 id="name">ESHMEET SINGH BHACHU</h1>
+            <p id="name2"><b>CSE STUDENT</b></p>
+            <div class="section">
+                <p id="name3"><b>ABOUT ME</b></p>
+                <p id="name2">Hi,Im a software engineering student who is keen on building my skill set particularly in AI and machine learning.Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nostrum incidunt dolores consequuntur debitis aperi</p>
+                
+            </div>
+           
+           
+           <div class="section">
+
+               <p id="name3"><b>EDUCATION</b></p>
+               <ul class="text">
+                   <li><b>BE CSE</b></li>
+                   <p>- CCET Sector 26 Chandigarh (2023 - 2027)
+                       BE in Computer Science Engineering</p>
+                       <li><b>12th CLASS</b></li>
+                       <p>GMSSS SECTOR 19 CHD</p>
+                       <li><b>10th CLASS</b></li>
+                       <p>SRI AUROBINDO SCHOOL</p>
+                       
+                       
+                    </ul>
+                    </div>
+                    <div class="section">
+                    <p id="name3"><b>HOBBIES</b></p>
+                    <ul class="text">
+                        <li>PAINTING</li>
+                        <li>MUSIC</li>
+                        <LI>TRAVELLING</LI>
+                        <LI>SWIMMING</LI>
+                        <LI>PHOTOGRAPHY</LI>
+                        <LI>COOKING</LI>
+                    </ul>
+                </div>
+            
+        </div>
+        
+        <div id="box1">
+            <img class="img1" src="post.jpg" alt="passport photo">
+            <p id="name4"><b>CONTACT INFORMATION</b></p>
+            <ul class="text2">
+                <li><p class="text1"><b>+7087949050</b></p></li>
+                <li></li>
+                <li>  <a class="text1" href="https://www.instagram.com/"><b>instagram</b></a></li>
+                <li></li>
+                <li><a class="text1" href="eshmeetsingh2005@gmail.com"><b>eshmeetsingh2005@gmail.com</b></a></li>
+                
+                <li><p class="text1"><b>MCO23377</b></p></li>
+        </ul>
+        </div>
+        
+    </div>
+</body>
+</html> 
